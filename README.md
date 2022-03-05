@@ -1,11 +1,11 @@
 # Mixed Signal Circuit Design and Simulation Marathon (FOSSEE IIT BOMBAY)
-------------------
+
 # Gated S-R Latch
-------------------
+
 
 
 # Abstract
-------------------
+
 In This Paper I am going to Design S-R Latch using
 Verilog. Design and Implementation will be done in esim and
 ngspice software. The SR Latch is a bistable 1-bit memory device
@@ -20,23 +20,23 @@ S-R Latch to get input and output in analog form.
 
 
 # Reference Circuit Diagram
-------------------
+
 ![IMG20220227221021](https://user-images.githubusercontent.com/84765232/156871721-cc29dfc1-c91d-46d8-8950-1da88cde202d.jpg) 
 
 # Reference Waveform
-------------------
+
  ![IMG_20220227_214812](https://user-images.githubusercontent.com/84765232/156871906-9bf51ab8-680a-4a25-88b0-e87080f98bd2.jpg)
 
 # Mixed Signal Circuit Design
-------------------
+
 ![IMG_20220227_220834](https://user-images.githubusercontent.com/84765232/156871923-c90cc0fa-ca9c-496a-bc86-fa067f49ae62.jpg)
 # Implemented Waveform
-------------------
+
 ![I2](https://user-images.githubusercontent.com/84765232/156878089-c1ff86e6-b0b4-459e-97a9-ff9f4e8d73f3.png)
 
 
 # Circuit Details
-------------------
+
 • Case 1 : S = 0, R = 0, and CLK = 1
 The inputs of both NOR gates are Logic ’0’ in the
 first case. They have no effect on the output because
@@ -86,12 +86,12 @@ result, the circuit acts as if S and R are both 0, latching
 the Q and not-Q outputs in their previous states.
 
 # Truth Table
-------------------
+
 
 ![Screenshot 2022-03-05 122123](https://user-images.githubusercontent.com/84765232/156872167-8d1d62a8-ff80-464c-8547-23a7c28fb32c.png)
 
 # Software Used
-------------------
+
 **eSim** :
 It is an Open Source EDA developed by FOSSEE, IIT Bombay. It is used for electronic circuit simulation. It is made by the combination of two software namely NgSpice and KiCAD.
 For more details refer:
@@ -110,15 +110,15 @@ It is a tool which converts Verilog code to C++ objects. Refer: https://www.veri
 
 
  # Circuit Design in esim
- ------------------
+
  ![Screenshot 2022-03-05 124401](https://user-images.githubusercontent.com/84765232/156872865-88e52e25-c3f2-4967-9f2d-be6ec725b880.png)
 
 # Verilog Code
-------------------
+
   ![Screenshot 2022-03-05 124647](https://user-images.githubusercontent.com/84765232/156872929-9a277607-9ce3-4fb1-89e1-2c2a04599768.png)
  
 # Makerchip
-------------------
+
   ```
   \TLV_version 1d: tl-x.org
 \SV
@@ -163,15 +163,15 @@ endmodule
 
 ```
 # MakerChip Plots
-------------------
+
 ![image](https://user-images.githubusercontent.com/84765232/156873510-8319c823-c898-4606-9748-20794999a20b.png)
 
 # Netlists
-------------------
+
 ![image](https://user-images.githubusercontent.com/84765232/156873621-3a379db4-c199-422c-a48f-218331787a60.png)
 
 # NgSpice Plots
-------------------
+
 ![image](https://user-images.githubusercontent.com/84765232/156873835-5b4b3a47-7f91-4161-a6a9-d9750372efa7.png)
 ![image](https://user-images.githubusercontent.com/84765232/156873855-5adcbd4f-bed0-4fa0-b33d-91d2cd4d9400.png)
 ![image](https://user-images.githubusercontent.com/84765232/156873878-ce325aec-7f20-4d79-898a-826d64afbfee.png)
@@ -179,15 +179,15 @@ endmodule
 ![image](https://user-images.githubusercontent.com/84765232/156873919-19576b41-db37-4ce9-9803-3f2728eaacdd.png)
 
 # GAW Plot
-------------------
+
 ![image](https://user-images.githubusercontent.com/84765232/156874581-b35529f6-86a9-4e4e-90c3-bfac2473f084.png)
 
 # Python Plot
-------------------
+
 ![image](https://user-images.githubusercontent.com/84765232/156874730-09e94000-b0ba-4732-8511-f1d01ecbd620.png)
 
 # Steps to run generate NgVeri Model
-------------------
+
 1. Open eSim
 2. Run NgVeri-Makerchip
 3. Add top level verilog file in Makerchip Tab
@@ -198,7 +198,7 @@ endmodule
 8. Model created successfully
 
 # Steps to run this Project
-------------------
+
 1. Open a new terminal
 2. Clone this project using the following command: ``` https://github.com/mihirrana620/Gated-S-R-Latch.git ```
 3. Change directory: ``` cd Mihir_esim_project_files/Mihir_SR_Latch ```
@@ -206,14 +206,14 @@ endmodule
 5. To run the project in eSim:   <br /> • Run eSim  <br /> • Load the project  <br /> • Open eeSchema
 
 # Acknowlegdements
-------------------
+
 1. FOSSEE, IIT Bombay
 2. Steve Hoover, Founder, Redwood EDA
 3. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
 4. Sumanto Kar, eSim Team, FOSSEE
 
 # References
-------------------
+
 1. SR Flip Flop - Javatpoint. www.javatpoint.com. (n.d.). Retrieved February 27, 2022, from https://www.javatpoint.com/sr-flip-flop-in-digitalelectronics
 2. https://www.allaboutcircuits.com/textbook/digital/chpt-10/s-r-latch
 3. https://github.com/Eyantra698Sumanto/XOR-XNOR-Gate
