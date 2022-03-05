@@ -3,7 +3,7 @@
 # Gated S-R Latch
 
 
-#Abstract
+# Abstract
 In This Paper I am going to Design S-R Latch using
 Verilog. Design and Implementation will be done in esim and
 ngspice software. The SR Latch is a bistable 1-bit memory device
