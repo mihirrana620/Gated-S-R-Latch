@@ -153,3 +153,13 @@ endmodule
 # Netlists
 ![image](https://user-images.githubusercontent.com/84765232/156873621-3a379db4-c199-422c-a48f-218331787a60.png)
 
+# NgSpice Plots
+![image](https://user-images.githubusercontent.com/84765232/156873835-5b4b3a47-7f91-4161-a6a9-d9750372efa7.png)
+![image](https://user-images.githubusercontent.com/84765232/156873855-5adcbd4f-bed0-4fa0-b33d-91d2cd4d9400.png)
+![image](https://user-images.githubusercontent.com/84765232/156873878-ce325aec-7f20-4d79-898a-826d64afbfee.png)
+![image](https://user-images.githubusercontent.com/84765232/156873903-a522eed9-b607-46b9-a505-967950ad4cd5.png)
+![image](https://user-images.githubusercontent.com/84765232/156873919-19576b41-db37-4ce9-9803-3f2728eaacdd.png)
+
+
+
+
