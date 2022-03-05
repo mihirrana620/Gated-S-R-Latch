@@ -100,5 +100,5 @@ It is a tool which converts Verilog code to C++ objects. Refer: https://www.veri
  # Circuit Design in esim
  ![Screenshot 2022-03-05 124401](https://user-images.githubusercontent.com/84765232/156872865-88e52e25-c3f2-4967-9f2d-be6ec725b880.png)
 
-
-
+# Verilog Code
+  ![Screenshot 2022-03-05 124647](https://user-images.githubusercontent.com/84765232/156872929-9a277607-9ce3-4fb1-89e1-2c2a04599768.png)
