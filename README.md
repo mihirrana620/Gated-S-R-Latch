@@ -75,5 +75,9 @@ two AND gates are forced to 0 when CLK = 0. As a
 result, the circuit acts as if S and R are both 0, latching
 the Q and not-Q outputs in their previous states.
 
+# Truth Table
+
+![Screenshot 2022-03-05 122123](https://user-images.githubusercontent.com/84765232/156872167-8d1d62a8-ff80-464c-8547-23a7c28fb32c.png)
+
 
  
