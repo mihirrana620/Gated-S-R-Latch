@@ -169,3 +169,15 @@ endmodule
 6. Click on Run Verilog to NgSpice Converter
 7. Debug if any errors
 8. Model created successfully
+
+# Acknowlegdements
+1. FOSSEE, IIT Bombay
+2. Steve Hoover, Founder, Redwood EDA
+3. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
+4. Sumanto Kar, eSim Team, FOSSEE
+
+# References
+1. SR Flip Flop - Javatpoint. www.javatpoint.com. (n.d.). Retrieved February 27, 2022, from https://www.javatpoint.com/sr-flip-flop-in-digitalelectronics
+2. https://www.allaboutcircuits.com/textbook/digital/chpt-10/s-r-latch
+
+2. 
