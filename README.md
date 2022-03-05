@@ -176,7 +176,7 @@ endmodule
 7. Debug if any errors
 8. Model created successfully
 
-# Steps to run the Project
+# Steps to run this Project
 1. Open a new terminal
 2. Clone this project using the following command: ``` https://github.com/mihirrana620/Gated-S-R-Latch.git ```
 3. Change directory: ``` cd Mihir_esim_project_files/Mihir_SR_Latch ```
