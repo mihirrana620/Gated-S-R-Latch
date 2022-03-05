@@ -181,10 +181,13 @@ endmodule
 2. Clone this project using the following command: ``` https://github.com/mihirrana620/Gated-S-R-Latch.git ```
 3. Change directory: ``` cd Mihir_esim_project_files/Mihir_SR_Latch ```
 4. Run ngspice: ``` npspice Mihir_SR_Latch.cir.out ```
-5. To run the project in eSim: 
--• Run eSim
--• Load the project
--• Open eeSchema
+5. To run the project in eSim:  
+
+• Run eSim
+
+• Load the project
+
+• Open eeSchema
 
 # Acknowlegdements
 1. FOSSEE, IIT Bombay
