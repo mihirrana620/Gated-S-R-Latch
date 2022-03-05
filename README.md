@@ -176,6 +176,9 @@ endmodule
 7. Debug if any errors
 8. Model created successfully
 
+# Steps to run the Project
+
+
 # Acknowlegdements
 1. FOSSEE, IIT Bombay
 2. Steve Hoover, Founder, Redwood EDA
