@@ -1,0 +1,811 @@
+
+No compatibility mode selected!
+
+
+Circuit: * /home/mihirrana620/desktop/mihir_sr_latch/mihir_sr_latch.cir
+
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: v3: no DC value, transient time 0 value used
+Warning: v2: no DC value, transient time 0 value used
+Warning: v1: no DC value, transient time 0 value used
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=0
+S=0
+R=0
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=0
+R=0
+Q=0
+Qn=1
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=0
+S=0
+R=0
+Q=0
+Qn=1
+
+Inside foo after eval.....
+CLK=0
+S=0
+R=0
+Q=0
+Qn=1
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+q_out                                        0
+clk                                          0
+s                                            0
+r                                            0
+qn_out                                       5
+v3#branch                                    0
+v2#branch                                    0
+v1#branch                                    0
+a3#branch_1_0                                0
+a3#branch_1_1                                0
+
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=0
+S=0
+R=0
+Q=0
+Qn=1
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=0
+R=1
+Q=0
+Qn=1
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=1
+S=0
+R=1
+Q=0
+Qn=1
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=0
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=0
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=0
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=0
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=1
+R=0
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=0
+S=1
+R=0
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=1
+R=0
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=0
+S=1
+R=0
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=0
+R=0
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=0
+S=0
+R=0
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=1
+R=1
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=0
+S=1
+R=1
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=1
+R=1
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=0
+S=1
+R=1
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=1
+R=1
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=0
+S=1
+R=1
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=0
+R=1
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=0
+S=0
+R=1
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=0
+R=1
+Q=0
+Qn=1
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=1
+S=0
+R=1
+Q=0
+Qn=1
+
+Inside foo after eval.....
+CLK=1
+S=0
+R=1
+Q=0
+Qn=1
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=1
+S=0
+R=1
+Q=0
+Qn=1
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 0
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=0
+Q=1
+Qn=0
+
+No. of Data Rows : 1308
+ERROR: (internal)  This operation is not defined for display type PrinterOnly.
+Can't open viewport for graphics.
+binary raw file "/home/mihirrana620/Desktop/Mihir_esim_project_files/Mihir_SR_Latch/Mihir_SR_Latch.raw"
+Reducing trtol to 1 for xspice 'A' devices
+Doing analysis at TEMP = 27.000000 and TNOM = 27.000000
+
+Warning: v3: no DC value, transient time 0 value used
+Warning: v2: no DC value, transient time 0 value used
+Warning: v1: no DC value, transient time 0 value used
+No. of Data Columns : 11     
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=0
+S=0
+R=0
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=0
+R=0
+Q=0
+Qn=1
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=0
+S=0
+R=0
+Q=0
+Qn=1
+
+Inside foo after eval.....
+CLK=0
+S=0
+R=0
+Q=0
+Qn=1
+
+Initial Transient Solution
+--------------------------
+
+Node                                   Voltage
+----                                   -------
+q_out                                        0
+clk                                          0
+s                                            0
+r                                            0
+qn_out                                       5
+v3#branch                                    0
+v2#branch                                    0
+v1#branch                                    0
+a3#branch_1_0                                0
+a3#branch_1_1                                0
+
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=0
+S=0
+R=0
+Q=0
+Qn=1
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=0
+R=1
+Q=0
+Qn=1
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=1
+S=0
+R=1
+Q=0
+Qn=1
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=0
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=0
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=0
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=0
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=1
+R=0
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=0
+S=1
+R=0
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=1
+R=0
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=0
+S=1
+R=0
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=0
+R=0
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=0
+S=0
+R=0
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=1
+R=1
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=0
+S=1
+R=1
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=1
+R=1
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=0
+S=1
+R=1
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=1
+R=1
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=0
+S=1
+R=1
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=0
+S=0
+R=1
+Q=1
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=0
+S=0
+R=1
+Q=1
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=0
+R=1
+Q=0
+Qn=1
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=1
+S=0
+R=1
+Q=0
+Qn=1
+
+Inside foo after eval.....
+CLK=1
+S=0
+R=1
+Q=0
+Qn=1
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=1
+S=0
+R=1
+Q=0
+Qn=1
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+=============mihir_sr_latch : New Iteration===========
+Instance : 1
+
+Inside foo before eval.....
+CLK=1
+S=1
+R=1
+Q=0
+Qn=0
+
+Inside foo after eval.....
+CLK=1
+S=1
+R=0
+Q=1
+Qn=0
+
+No. of Data Rows : 1308
+
+Total analysis time (seconds) = 0.032418
+
+Total CPU time (seconds) = 0.086 
+
+Total DRAM available = 257855.305 MB.
+DRAM currently available = 250757.617 MB.
+Maximum ngspice program size =   89.508 MB.
+Current ngspice program size =   11.551 MB.
+
+Shared ngspice pages =    9.504 MB.
+Text (code) pages =    6.285 MB.
+Stack = 0 bytes.
+Library pages =    2.961 MB.
+

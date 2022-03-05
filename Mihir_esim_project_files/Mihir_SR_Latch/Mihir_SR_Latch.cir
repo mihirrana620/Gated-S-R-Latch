@@ -1,0 +1,23 @@
+* /home/mihirrana620/Desktop/Mihir_SR_Latch/Mihir_SR_Latch.cir
+
+* EESchema Netlist Version 1.1 (Spice format) creation date: Fri 04 Mar 2022 06:30:21 PM UTC
+
+* To exclude a component from the Spice Netlist add [Spice_Netlist_Enabled] user FIELD set to: N
+* To reorder the component spice node sequence add [Spice_Node_Sequence] user FIELD and define sequence: 2,1,0
+
+* Sheet Name: /
+U5  Net-_U4-Pad4_ Net-_U4-Pad5_ Net-_U4-Pad6_ Net-_U5-Pad4_ Net-_U5-Pad5_ mihir_sr_latch		
+U4  CLK S R Net-_U4-Pad4_ Net-_U4-Pad5_ Net-_U4-Pad6_ adc_bridge_3		
+U6  Net-_U5-Pad4_ Net-_U5-Pad5_ Q_out Qn_out dac_bridge_2		
+C2  Q_out GND 1u		
+v1  CLK GND pulse		
+v2  S GND pulse		
+v3  R GND pulse		
+C1  Qn_out GND 1u		
+U8  Q_out plot_v1		
+U7  Qn_out plot_v1		
+U1  CLK plot_v1		
+U2  S plot_v1		
+U3  R plot_v1		
+
+.end
