@@ -183,11 +183,9 @@ endmodule
 4. Run ngspice: ``` npspice Mihir_SR_Latch.cir.out ```
 5. To run the project in eSim:  
 
-• Run eSim
-
-• Load the project
-
-• Open eeSchema
+  • Run eSim
+  • Load the project
+  • Open eeSchema
 
 # Acknowlegdements
 1. FOSSEE, IIT Bombay
