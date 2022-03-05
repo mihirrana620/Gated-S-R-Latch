@@ -147,3 +147,5 @@ endmodule
 endmodule
 
 ```
+# MakerChip Plots
+![image](https://user-images.githubusercontent.com/84765232/156873510-8319c823-c898-4606-9748-20794999a20b.png)
