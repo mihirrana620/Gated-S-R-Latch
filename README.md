@@ -160,6 +160,12 @@ endmodule
 ![image](https://user-images.githubusercontent.com/84765232/156873903-a522eed9-b607-46b9-a505-967950ad4cd5.png)
 ![image](https://user-images.githubusercontent.com/84765232/156873919-19576b41-db37-4ce9-9803-3f2728eaacdd.png)
 
+# GAW Plot
+![image](https://user-images.githubusercontent.com/84765232/156874581-b35529f6-86a9-4e4e-90c3-bfac2473f084.png)
+
+# Python Plot
+![image](https://user-images.githubusercontent.com/84765232/156874730-09e94000-b0ba-4732-8511-f1d01ecbd620.png)
+
 # Steps to run generate NgVeri Model
 1. Open eSim
 2. Run NgVeri-Makerchip
