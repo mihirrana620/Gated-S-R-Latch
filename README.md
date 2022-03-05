@@ -98,6 +98,6 @@ It is a tool which converts Verilog code to C++ objects. Refer: https://www.veri
 
 
  # Circuit Design in esim
- 
- file:///home/mihirrana620/Desktop/output.jpg
+ ![output2_page-0001](https://user-images.githubusercontent.com/84765232/156872793-b0eb0d28-8628-4c96-8042-0954c2791d10.jpg)
+
 
