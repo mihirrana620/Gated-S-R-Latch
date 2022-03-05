@@ -15,3 +15,9 @@ are the labels for the SET and RESET inputs, respectively. The
 main objective was to design a mixed signal circuit for that I
 have attached ADC in front of S-R Latch and DAC in behind of
 S-R Latch to get input and output in analog form.
+
+
+# Reference Circuit Diagram
+![Uploading IMG20220227221021.jpg…]()
+
+ 
