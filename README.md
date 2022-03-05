@@ -160,6 +160,12 @@ endmodule
 ![image](https://user-images.githubusercontent.com/84765232/156873903-a522eed9-b607-46b9-a505-967950ad4cd5.png)
 ![image](https://user-images.githubusercontent.com/84765232/156873919-19576b41-db37-4ce9-9803-3f2728eaacdd.png)
 
-
-
-
+# Steps to run generate NgVeri Model
+1. Open eSim
+2. Run NgVeri-Makerchip
+3. Add top level verilog file in Makerchip Tab
+4. Click on NgVeri tab
+5. Add dependency files
+6. Click on Run Verilog to NgSpice Converter
+7. Debug if any errors
+8. Model created successfully
