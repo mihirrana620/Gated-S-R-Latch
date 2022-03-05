@@ -18,7 +18,7 @@ S-R Latch to get input and output in analog form.
 
 
 # Reference Circuit Diagram
-![IMG20220227221021](https://user-images.githubusercontent.com/84765232/156871721-cc29dfc1-c91d-46d8-8950-1da88cde202d.jpg | width=100) 
+![IMG20220227221021](https://user-images.githubusercontent.com/84765232/156871721-cc29dfc1-c91d-46d8-8950-1da88cde202d.jpg) | width=100
 
 
  
