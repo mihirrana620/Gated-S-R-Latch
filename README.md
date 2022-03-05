@@ -80,20 +80,20 @@ the Q and not-Q outputs in their previous states.
 ![Screenshot 2022-03-05 122123](https://user-images.githubusercontent.com/84765232/156872167-8d1d62a8-ff80-464c-8547-23a7c28fb32c.png)
 
 # Software Used
-**eSim : **
+**eSim** :
 It is an Open Source EDA developed by FOSSEE, IIT Bombay. It is used for electronic circuit simulation. It is made by the combination of two software namely NgSpice and KiCAD.
 For more details refer:
 https://esim.fossee.in/home
 
-**NgSpice : **
+**NgSpice** : 
 It is an Open Source Software for Spice Simulations. For more details refer:
 http://ngspice.sourceforge.net/docs.html
 
-**Makerchip : **
+**Makerchip** : 
 It is an Online Web Browser IDE for Verilog/System-verilog/TL-Verilog Simulation. Refer
 https://www.makerchip.com/
 
-**Verilator : **
+**Verilator** :
 It is a tool which converts Verilog code to C++ objects. Refer: https://www.veripool.org/verilator/
 
 
