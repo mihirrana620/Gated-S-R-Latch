@@ -179,4 +179,4 @@ endmodule
 # References
 1. SR Flip Flop - Javatpoint. www.javatpoint.com. (n.d.). Retrieved February 27, 2022, from https://www.javatpoint.com/sr-flip-flop-in-digitalelectronics
 2. https://www.allaboutcircuits.com/textbook/digital/chpt-10/s-r-latch
-
+3. https://github.com/Eyantra698Sumanto/XOR-XNOR-Gate
