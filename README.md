@@ -20,8 +20,8 @@ S-R Latch to get input and output in analog form.
 
 
 # Reference Circuit Diagram
+![L7](https://user-images.githubusercontent.com/84765232/156878478-94f37cc9-1592-43cd-964e-dedc5adecf21.png)
 
-![IMG20220227221021](https://user-images.githubusercontent.com/84765232/156871721-cc29dfc1-c91d-46d8-8950-1da88cde202d.jpg) 
 
 # Reference Waveform
 
