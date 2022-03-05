@@ -1,4 +1,4 @@
-# Mixed Signal Circuit Design and Simulation Marathon
+# Mixed Signal Circuit Design and Simulation Marathon (FOSSEE IIT BOMBAY)
 
 # Gated S-R Latch
 
