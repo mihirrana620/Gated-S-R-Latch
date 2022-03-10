@@ -4,6 +4,9 @@
 
 
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
 # Abstract
 
 In This Paper I am going to Design S-R Latch using
