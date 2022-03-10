@@ -2,6 +2,29 @@
 
 # Gated S-R Latch
 
+- [Abstract](#abstract)
+- [Reference Circuit Diagram](#reference-circuit-diagram)
+- [Reference Waveform](#reference-waveform)
+- [Mixed Signal Circuit Design](#mixed-signal-circuit-design)
+- [Implemented Waveform](#implemented-waveform)
+- [Circuit Details](#circuit-details)
+- [Truth Table](#truth-table)
+- [Software Used](#software-used)
+- [Circuit Design in esim](#circuit-design-in-esim)
+- [Verilog Code](#verilog-code)
+- [Makerchip](#makerchip)
+- [MakerChip Plots](#makerchip-plots)
+- [Netlists](#netlists)
+- [NgSpice Plots](#ngspice-plots)
+- [GAW Plot](#gaw-plot)
+- [Python Plot](#python-plot)
+- [Steps to run generate NgVeri Model](#steps-to-run-generate-ngveri-model)
+- [Steps to run this Project](#steps-to-run-this-project)
+- [Acknowlegdements](#acknowlegdements)
+- [References](#references)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 
